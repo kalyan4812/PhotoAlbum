@@ -5,13 +5,14 @@ Project is done using the concepts:
 1)Retrofit+Rxjava for fetching data from server.
 2)MVVM Architecture Pattern is used. 
 3)Recycler view.
-4)Third pary libraries.
+4)Search View using Filterable interface.
+5)Third pary libraries.
 
 Time taken for completion:(12-13) hours.
 
 Project Flow:
 * Fetching list of albums,where you can filter this list  by userId.
-* On click of any album you are directed to next screen where only data related to coresponding album is shown.
+* On click of any album you are directed to next screen where only data related to coresponding album is shown,where you can serach a photo using title.
 * You can view the full size of a image ,on clicking the image.
 
 
