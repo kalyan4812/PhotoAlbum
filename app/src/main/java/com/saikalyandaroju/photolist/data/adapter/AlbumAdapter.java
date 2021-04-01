@@ -10,6 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.google.android.material.card.MaterialCardView;
 import com.saikalyandaroju.photolist.R;
 import com.saikalyandaroju.photolist.data.model.Albums;
 
@@ -49,7 +50,7 @@ public class AlbumAdapter extends RecyclerView.Adapter<AlbumAdapter.AlbumHolder>
 
     public class AlbumHolder extends RecyclerView.ViewHolder {
         TextView id, userId;
-        CardView cardView;
+        MaterialCardView cardView;
 
         public AlbumHolder(@NonNull View itemView) {
             super(itemView);
