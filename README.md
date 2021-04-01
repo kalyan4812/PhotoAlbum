@@ -8,9 +8,9 @@ Project is done using the concepts:
 4)Third pary libraries.
 
 Screen Shots of Project:
-
+</p float="left">
 <img src="https://user-images.githubusercontent.com/68738102/113256877-6dabac00-92e7-11eb-9b70-d9818436ddc7.png" title="splash" align="left"  width="350" height="600"/>
-Splash Screen
+Splash Screen</p>
 <img src="https://user-images.githubusercontent.com/68738102/113256973-92a01f00-92e7-11eb-9ab4-2dc8f6725fe1.png" align="right" width="350" height="600"/>
 
 <img src="https://user-images.githubusercontent.com/68738102/113257018-9e8be100-92e7-11eb-83e6-79c6e9a7f76b.png"  align="left" 
