@@ -5,7 +5,7 @@ Project is done using the concepts:
 1)Retrofit+Rxjava for fetching data from server.
 2)MVVM Architecture Pattern is used. 
 3)Recycler view.
-4)Search View using Filterable interface.
+4)Searching of items in recycler view using Filterable interface.
 5)Third pary libraries.
 
 Time taken for completion:(12-13) hours.
