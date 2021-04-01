@@ -7,6 +7,14 @@ Project is done using the concepts:
 3)Recycler view.
 4)Third pary libraries.
 
+Time taken for completion:(12-13) hours.
+
+Project Flow:
+* Fetching list of albums,where you can filter this list  by userId.
+* On click of any album you are directed to next screen where only data related to coresponding album is shown.
+* You can view the full size of a image ,on clicking the image.
+
+
 Screen Shots of Project:
 
 <img src="https://user-images.githubusercontent.com/68738102/113256877-6dabac00-92e7-11eb-9b70-d9818436ddc7.png"  align="left"  width="350" height="600"/>
