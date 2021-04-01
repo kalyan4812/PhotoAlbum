@@ -1,0 +1,2 @@
+rootProject.name='PhotoList'
+include ':app'
