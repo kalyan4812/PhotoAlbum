@@ -1,5 +1,5 @@
 # PhotoAlbum
-Isol Pro Project
+
 
 Project is done using the concepts:
 1)Retrofit+Rxjava for fetching data from server.
