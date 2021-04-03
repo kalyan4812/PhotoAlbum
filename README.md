@@ -9,7 +9,7 @@ Project is done using the concepts:
 5)Shimmer Effect.
 6)Third pary libraries.
 
-Time taken for completion:(12-13) hours.
+
 
 Project Flow:
 * Fetching list of albums,where you can filter this list  by userId.
