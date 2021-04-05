@@ -16,8 +16,7 @@ Project Flow:
 * On click of any album you are directed to next screen where only data related to coresponding album is shown,where you can serach a photo using title.
 * You can view the full size of a image ,on clicking the image.
 
-APK LINK:
-https://github.com/kalyan4812/PhotoAlbum/blob/master/app-debug.apk
+
 
 Screen Shots of Project:
 
